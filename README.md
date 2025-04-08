@@ -1,2 +1,2 @@
 # algorithms_comparison
- Program to compare execution time of sorting algorithms
+School project to compare execution time of sorting algorithms in c++
